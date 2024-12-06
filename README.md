@@ -1,1 +1,3 @@
-# Silicon-Design-Template---JS-frontend-main
+# Silicon-Design-Template---JS-frontend
+# JS-frontend
+# JS-frontend
